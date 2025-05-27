@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/raj-bariya/
-image: /assets/images/me.jpg
+image: assets/images/IMG_7774.JPG
 ---

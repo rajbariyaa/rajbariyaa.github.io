@@ -11,20 +11,17 @@ about:
   bio: |
     I’m currently a junior studying Computer Science at Morgan State University in Baltimore, MD. I expect to graduate in 2026.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work explores AI-Driven Flight Delay Prediction Model for Climate-Resiliant Airspace Management.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy playing soccer or reading some documentation.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+    - icon: ⚽
+      title: Playing Soccer
+      description: I’ve been playing soccer since middle school and love playing as a center midfielder.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: Gaming
+      description: I love playing games especially E-sports like FIFA.
 
   gallery:
     - image: /assets/images/me-guitar.png

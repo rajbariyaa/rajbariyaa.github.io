@@ -3,8 +3,8 @@ layout: project
 title: AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Data Filtering and Model Training
+project_title: "AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management"
 
 problem: |
   This project researches the use of machine learning and artificial intelligence to predict weather-induced flight delays and improve climate resilience in airspace management. Using historical flight data, real-time weather reports, and air traffic information, students will develop AI-driven predictive models (Random Forest, XGBoost, and LSTMs) to estimate potential disruptions. The project will also include a literature review on AI applications in aviation, feature engineering for improved model accuracy, and a visualization dashboard for real-time delay forecasting.

@@ -4,23 +4,19 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Abiola Olayinka Ajala
+  title: Master's Graduate, Advanced Computing
   image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  website: https://www.linkedin.com/in/abiola-ajala-89a400272
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Abiola is Master's Graduate in Advanced Computing. She has demonstrated strong leadership and technical skills, notably serving as the Project Manager for Morgan TechFest23, where she played a key role in organizing and managing tech-focused initiatives. Based in Glen Burnie, Maryland, Abiola is passionate about leveraging data and emerging technologies to drive innovation and solve real-world problems. With a growing network and a collaborative spirit, she continues to make impactful contributions across the tech and analytics space.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Kofi Nyarko
+  title: Professor Kofi, Morgan State University
   image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  website: https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-kofi-nyarko
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Kofi Nyarko is a Professor in the Department of Electrical and Computer Engineering at Morgan State University. He also serves as Director of the Data Engineering and Predictive Analytics (DEPA) Research Lab. Under his direction, DEPA has acquired and conducted research from the Department of Defense, Department of Energy, Army Research Laboratory, NASA, Department of Homeland Security and Purdue University’s Visual Analytics for Command, Control, and Interoperability Environments (VACCINE), a DHS Center of Excellence. Dr. Nyarko’s expertise lies in automating complex systems through computer vision and machine learning as well as scientific/engineering simulation & visualization, predictive visual analytics, complex computer algorithm development, and computer network security. In 2020, he was a recipient of the US Black Engineer HBCU STEM Innovation Award for contributions to innovation that furthered economic development and entrepreneurship at Morgan State University.
 
 ---

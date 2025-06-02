@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Raj Bariya
   role: Junior, CS Major at Morgan State University
-  image: assets/images/IMG_7774.JPG
+  image: assets/images/mypic.jpeg
   linkedin: https://www.linkedin.com/in/raj-bariya/
   bio: |
     I’m currently a junior studying Computer Science at Morgan State University in Baltimore, MD. I expect to graduate in 2026.
